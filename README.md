@@ -127,7 +127,7 @@ clv-prediction-igaming/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/clv-prediction-igaming.git
+git clone https://github.com/yourshanej808/clv-prediction-igaming.git
 cd clv-prediction-igaming
 
 # Create virtual environment (recommended)
@@ -145,7 +145,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/clv_model.ipynb
 ```
 
-Or open directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/clv-prediction-igaming/blob/main/notebooks/clv_model.ipynb)
+Or open directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourshanej808/clv-prediction-igaming/blob/main/notebooks/clv_model.ipynb)
 
 ## Methodology Highlights
 
