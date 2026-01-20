@@ -197,7 +197,7 @@ This model includes responsible gaming considerations:
 
 ## Author
 
-**Shane** — iGaming professional building a data science portfolio through hands-on learning.
+**Shane Jackson** — iGaming professional building a data science portfolio through hands-on learning.
 
 This project represents genuine skill development: understanding every technical concept deeply enough to discuss confidently with both technical and business stakeholders.
 
